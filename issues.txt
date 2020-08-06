@@ -1,0 +1,5 @@
+File issue.txt can't be read,closed,Ionel,nobody
+Function getItem() - crash,open,Ana,nobody
+Exception thrown at line 408,closed,Ionel,nobody
+Exception thrown at line 401,closed,Ionel,nobody
+Alta,open,Ana,nobody

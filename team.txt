@@ -1,0 +1,4 @@
+Ionel,tester
+Vasile,programmer
+Ana,tester
+Nelu,programmer
